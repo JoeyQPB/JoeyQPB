@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Joey
 
 💻 I'm a software engineer 
-🌱 I’m currently learning about `C# .NET`
+🌱 I’m currently learning about `JAVA`
 
 Talk About: JS | TS | NodeJs | ExpressJs | NestJS | Sql | NoSql 
 
