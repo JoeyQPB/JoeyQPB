@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Joey
 
 💻 I'm a software engineer 
-🌱 I’m currently learning about `JAVA`
+🌱 Studying computer science
 
-Talk About: JS | TS | NodeJs | ExpressJs | NestJS | Sql | NoSql 
+Talk About: Java | Spring Boot | C/C++ | NodeJs | NestJS  
 
 - 📫 How to reach me:
 
