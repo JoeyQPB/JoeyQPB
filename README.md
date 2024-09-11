@@ -3,7 +3,7 @@
 💻 I'm a software engineer 
 🌱 Studying computer science
 
-Talk About: Java | Spring Boot | C/C++ | NodeJs  
+Talk About: Java | C/C++ | NodeJs  
 
 - 📫 How to reach me:
 
